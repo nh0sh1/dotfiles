@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "keyboard.dispatch": "keyCode",
+    "editor.inlineHints.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback",
+    "editor.fontFamily": "'HackGen'",
+    "editor.fontSize": 15,
+    "bracketPairColorizer.depreciation-notice": false,
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/local/bin/nvim",
+    "vscode-neovim.neovimInitVimPaths.linux": "/usr/bin/nvim",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    }
+}
